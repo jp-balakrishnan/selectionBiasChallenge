@@ -13,7 +13,9 @@ execute:
 ::: {.callout-important}
 ## 📊 Challenge Overview
 
-** Task:** Create a four-panel statistics meme demonstrating selection bias. You'll write three Python functions yourself to complete the workflow, then assemble them into a professional meme.
+Create a four-panel statistics meme demonstrating selection bias. You'll write three Python functions yourself to complete the workflow, then assemble them into a professional meme.
+
+:::
 
 ```{python}
 #| label: final-meme
